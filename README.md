@@ -1,6 +1,6 @@
 # Laser Upgrade
 
-![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Drive-Chains/Updates-August-2021/Photo_.PNG)
+![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Drive-Chains/Updates-August-2021/Laser_Upgrade.jpg)
 
 ### Upgrade your M2 to laser engrave with MakerMade's 2.8w JTech laser and mounting kit!
 Your new laser will fit right into your current router clamp on your M2 sled. 
@@ -19,7 +19,7 @@ This is an upgrade kit that requires a full M2 to fully function. If you have a 
 
 Head over to [Maker Made](https://makermade.com/collections/all/products/m2-laser-engraving-kit) to order!
 
-![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Drive-Chains/Updates-August-2021/Photo_.PNG)
+![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Drive-Chains/Updates-August-2021/Laser_Example.jpg)
 
 ### What’s Included: 
 * 2.8w Laser diode component with mounting screws
