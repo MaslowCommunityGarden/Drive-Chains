@@ -34,7 +34,7 @@ Head over to [Maker Made](https://makermade.com/collections/all/products/m2-lase
 * 25 mm M3 screws (If purchasing for the 71 mm clamp (2))
 * Emergency Stop Button
 
-![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Drive-Chains/Updates-August-2021/Photo_.PNG)
+![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Drive-Chains/Updates-August-2021/LaserKit_Components.jpg)
 
 ### The MakerMade Guarantee:
 
