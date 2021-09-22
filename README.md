@@ -2,7 +2,6 @@
 
 ![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Drive-Chains/Updates-August-2021/Laser_Upgrade.jpg)
 
-### Laser Upgrade Kit
 Your new laser will fit right into your current router clamp on your M2 sled. 
 
 Huge workspace for 4'x8' of laser engraving
