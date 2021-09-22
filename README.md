@@ -1,4 +1,4 @@
-# Laser Upgrade
+# Laser Upgrade Kit
 
 ![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Drive-Chains/Updates-August-2021/Laser_Upgrade.jpg)
 
@@ -17,7 +17,7 @@ This is an upgrade kit that requires a full M2 to fully function. If you have a 
 *Free US Shipping* | *Dedicated Support Team*  
 ***Use promo code MASLOW10 for 10% off your order!***
 
-Head over to [Maker Made](https://makermade.com/collections/all/products/m2-laser-engraving-kit) to order!
+Head over to [MakerMade](https://makermade.com/collections/all/products/m2-laser-engraving-kit) to order!
 
 ![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Drive-Chains/Updates-August-2021/Laser_Example.jpg)
 
