@@ -14,7 +14,8 @@ Etches a wide variety of materials: Wood, Cork, Acrylic, Leather, Cloth, Teflon 
 
 This is an upgrade kit that requires a full M2 to fully function. If you have a Maslow CNC, please view our [Maslow to M2 upgrade](https://makermade.com/collections/all/products/maslow-to-m2-upgrade-cnc-kit) kit to purchase a laser upgrade for your Maslow, or our [Full M2 Kit](https://makermade.com/collections/all/products/2021-m2-cnc-kit) listing to purchase an M2 with the laser engraving upgrade.
 
-*Free US Shipping* | *Dedicated Support Team*  
+*Free US Shipping* | *Dedicated Support Team*
+
 ***Use promo code MASLOW10 for 10% off your order!***
 
 Head over to [MakerMade](https://makermade.com/collections/all/products/m2-laser-engraving-kit) to order!
