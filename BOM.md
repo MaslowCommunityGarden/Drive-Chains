@@ -1,1 +1,1 @@
-Available at [Maker Made CNC](https://www.makermadecnc.com/shop)
+Available at [MakerMade CNC](https://www.makermadecnc.com/shop)
