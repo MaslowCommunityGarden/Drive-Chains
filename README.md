@@ -1,6 +1,11 @@
-# Laser Upgrade
+# Laser Upgrade Kit
+
+
+![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Drive-Chains/Updates-August-2021/Laser_Upgrade.jpg)
+
 
 ### Upgrade your M2 to laser engrave with MakerMade's 2.8w JTech laser and mounting kit!
+
 Your new laser will fit right into your current router clamp on your M2 sled. 
 
 Huge workspace for 4'x8' of laser engraving
@@ -12,10 +17,11 @@ Etches a wide variety of materials: Wood, Cork, Acrylic, Leather, Cloth, Teflon 
 
 This is an upgrade kit that requires a full M2 to fully function. If you have a Maslow CNC, please view our [Maslow to M2 upgrade](https://makermade.com/collections/all/products/maslow-to-m2-upgrade-cnc-kit) kit to purchase a laser upgrade for your Maslow, or our [Full M2 Kit](https://makermade.com/collections/all/products/2021-m2-cnc-kit) listing to purchase an M2 with the laser engraving upgrade.
 
-*Free US Shipping* | *Dedicated Support Team*  
+*Free US Shipping* | *Dedicated Support Team*
+
 ***Use promo code MASLOW10 for 10% off your order!***
 
-Head over to [Maker Made](https://makermade.com/collections/all/products/m2-laser-engraving-kit) to order!
+Head over to [MakerMade](https://makermade.com/collections/all/products/m2-laser-engraving-kit) to order!
 
 ![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Drive-Chains/Updates-August-2021/Laser_Example.jpg)
 
@@ -49,4 +55,4 @@ You simply won’t find a CNC of this caliber, price, and support anywhere else 
 
 ***Use promo code MASLOW10 for 10% off your order!***
 
-Head over to [Maker Made](https://makermade.com/collections/all/products/m2-laser-engraving-kit) to order!
+Head over to [MakerMade](https://makermade.com/collections/all/products/m2-laser-engraving-kit) to order!
